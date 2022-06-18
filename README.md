@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello people 👋
+# My name is Ehsan Bikdeli
+I am a 👯 #3776AB programmer and :Django developer #092E20 and certified network administrator
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
 **ebikdeli/ebikdeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
